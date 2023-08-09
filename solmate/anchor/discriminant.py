@@ -1,4 +1,4 @@
-import podite
+from podite import (pod)
 
 from .sighash import sighash
 from ..utils import snake_to_pascal
