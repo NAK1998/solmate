@@ -1,6 +1,6 @@
 # LOCK-BEGIN[imports]: DON'T MODIFY
 from codegen.idl.types.enum_with_fields import EnumWithFields
-from pod import (
+from podite import (
     FixedLenArray,
     pod,
 )

@@ -1,6 +1,6 @@
 # LOCK-BEGIN[imports]: DON'T MODIFY
 from codegen.idl.types.call_back_info import CallBackInfo
-from pod import pod
+from podite import pod
 from solana.publickey import PublicKey
 
 # LOCK-END

@@ -3,7 +3,7 @@ from pathlib import Path
 from solana.keypair import Keypair
 
 from solmate.anchor import codegen
-from pod import Static
+from podite import Static
 
 def get_project_root() -> Path:
     return Path(__file__).parent.parent.parent

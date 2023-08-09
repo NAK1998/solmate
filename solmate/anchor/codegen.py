@@ -4,7 +4,7 @@ import subprocess
 from functools import partial
 from typing import Dict, Iterable, Set, Union, Callable, Literal, Optional
 
-from pod import Vec
+from podite import Vec
 from solana.keypair import Keypair
 from solana.publickey import PublicKey
 from solana.system_program import SYS_PROGRAM_ID
